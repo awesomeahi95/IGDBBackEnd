@@ -1,0 +1,10 @@
+com\qa\persistence\domain\Ratings.class
+com\qa\rest\Endpoints.class
+com\qa\persistence\domain\Users.class
+com\qa\persistence\repository\igdbDBRepository.class
+com\qa\business\service\IGDBServiceImpl.class
+com\qa\business\service\IGDBService.class
+com\qa\persistence\domain\Games.class
+com\qa\util\JSONUtil.class
+com\qa\persistence\repository\igdbRepository.class
+com\qa\rest\JAXActivator.class
