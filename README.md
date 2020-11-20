@@ -6,3 +6,4 @@ Tools Used:
 - Java (Spring Framework)
 - Javascript
 - React
+- SQL
