@@ -7,3 +7,5 @@ Tools Used:
 - Javascript
 - React
 - SQL
+- Docker
+- GCP
