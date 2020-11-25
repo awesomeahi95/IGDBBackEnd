@@ -6,6 +6,6 @@ Tools Used:
 - Java (Spring Framework)
 - Javascript
 - React
-- SQL
+- SQL (mySQL)
 - Docker
 - GCP
