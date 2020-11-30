@@ -9,5 +9,5 @@ Tools Used:
 - SQL (mySQL)
 - Docker
 - GCP
-- Jenkins
+- Jenkins (CI)
 - Postman
